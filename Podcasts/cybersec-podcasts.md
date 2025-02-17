@@ -26,6 +26,9 @@
 - **[Malicious Life](https://malicious.life/)**  
   Very well-written and narrated stories of cyberattacks and heists.
 
+- **[Hacking Humans](https://thecyberwire.com/podcasts/hacking-humans)**
+  Social engineering scams, phishing schemes, and criminal exploits that are making headlines and taking a heavy toll on organizations around the world.
+
 ---
 
 ## 📰 **Daily News**
