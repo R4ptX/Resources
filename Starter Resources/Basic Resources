@@ -1,0 +1,26 @@
+# Cybersecurity Learning Platforms
+
+## [primer.picoctf.com](https://primer.picoctf.com/)
+**primer.picoCTF** is an interactive learning platform by **picoCTF**, designed to help beginners get started with cybersecurity and Capture The Flag (CTF) challenges. It provides hands-on exercises covering fundamental topics such as:
+
+- **Cryptography**
+- **Reverse Engineering**
+- **Binary Exploitation**
+- **Forensics**
+- **Web Exploitation**
+- **General Cybersecurity Concepts**
+
+The platform offers **guided lessons with practical challenges** to reinforce learning, making it a great resource for newcomers and those looking to strengthen their CTF skills before tackling full competitions like **picoCTF**.
+
+---
+
+## [pwn.college](https://pwn.college/)
+**pwn.college** is a **self-paced, hands-on** platform for learning **binary exploitation, reverse engineering, and offensive security techniques**. Developed by **Arizona State University's Shellphish CTF team**, it offers structured courses and challenges covering:
+
+- **Linux and Assembly Fundamentals**
+- **Memory Corruption (Buffer Overflows, Format Strings, etc.)**
+- **Reverse Engineering**
+- **Exploit Development**
+- **Advanced Pwn Techniques (ROP, Heap Exploitation, etc.)**
+
+It provides **automated grading, live challenge servers, and an open curriculum**, making it an excellent training ground for **CTF preparation**.
