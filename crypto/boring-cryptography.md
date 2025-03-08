@@ -3,7 +3,7 @@ Many important Cryptography libraries like OpenSSL are written in C. With the ad
 and the ability to write safeer and more predicatable code. Rust's ownership and borrowing system ensures memory safety by preventing null pointer dereferencing and memory leaks at compile time, which can be crucial for cryptographic operations that require strict adherence to constant-time execution to avoid side-channel attacks.
 
 ## Rust Crypto
-A very comprehensive collection of Rust crates that are maintained by a core team. 
+A very comprehensive collection of Rust crates that are maintained by a core team. Many crates in this ecosystem have never had a security audit performed, use at your own risk. 
 https://github.com/RustCrypto
 
 ## Dalek Cryptography 
